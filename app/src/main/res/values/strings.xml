@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ProjectInvest</string>
+    <string name="title_activity_main_menu">MainMenuActivity</string>
+    <string name="title_activity_main_menu_activity.java">MainMenuActivity.java</string>
+</resources>
